@@ -1,4 +1,4 @@
-[# Todo List Application
+# Todo List Application
 
 This is a simple Todo List application with a Next.js frontend and a Node.js backend using MySQL and Sequelize.
 
